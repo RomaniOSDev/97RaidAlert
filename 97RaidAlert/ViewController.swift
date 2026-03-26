@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  97RaidAlert
 //
-//  Created by Роман Главацкий on 28.02.2026.
+//  Created by Xeova Nuoc on 28.02.2026.
 //
 
 import UIKit

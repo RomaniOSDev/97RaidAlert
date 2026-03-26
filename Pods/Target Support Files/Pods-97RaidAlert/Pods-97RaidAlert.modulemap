@@ -1,0 +1,6 @@
+framework module Pods_97RaidAlert {
+  umbrella header "Pods-97RaidAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}
